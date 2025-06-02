@@ -1,8 +1,6 @@
 # Multi-Task Deep Learning Seismic Inversion System
 > 基于改进UNet架构的高效物性参数预测
 
-```markdown
-
 <div align="center">
   <img src="output/inversion_results.png" width="80%" alt="预测结果示例">
 </div>
